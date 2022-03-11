@@ -2,7 +2,7 @@
 provider "google" {
 # Please put SA accout JSON Key file in place of XXXX
   credentials = "${file("XXXXXXXXXXXXXXXX")}"
-  project = "[Your_Anand_Name]"//proj name 
+  project = "[Your_Anand01_Name]"//proj name 
   region  = "us-central1"
   zone    = "us-central1-c"
 }
